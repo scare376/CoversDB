@@ -14,3 +14,13 @@ people:
       anilist_id: 
       metron_id: 
     image_path: "people/j_k_rowling.webp"
+  - name: "Shimimaru"
+    aliases: ["Joanne Rowling", "Robert Galbraith"]
+    ids:
+      hardcover_id: 
+      amazon_id: 
+      comicvine_id:
+      mal_id:
+      anilist_id: "112441"
+      metron_id: 
+    image_path: "people/Shimimaru.jpg"

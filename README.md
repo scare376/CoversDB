@@ -8,4 +8,7 @@ If you have a weblink that does not have a favicon in Kavita, you can upload it 
 Kavita has the ability to use Publisher images. You can upload your own in assets/publishers/publishers.txt. See the readme in that folder to understand the syntax. You can view all available Publishers [here](https://www.kavitareader.com/publishers/).
 
 ### People/Character Covers
-Kavita has the ability to download dynamically covers of authors, artists, etc from this repo. 
+Kavita has the ability to download dynamically covers of authors, artists, etc from this repository. Open people.yml and add a new entry or update an existing. 
+
+#### If there is a conflict where one name matches another or another alias
+You can handle it X
