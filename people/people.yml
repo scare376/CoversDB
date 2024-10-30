@@ -15,7 +15,7 @@ people:
       metron_id: 
     image_path: "people/j_k_rowling.webp"
   - name: "Shimimaru"
-    aliases: ["Joanne Rowling", "Robert Galbraith"]
+    aliases: []
     ids:
       hardcover_id: 
       amazon_id: 
