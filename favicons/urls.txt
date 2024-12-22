@@ -9,6 +9,7 @@ app.plex.tv.png
 bangumi.tv.png
 bato.to.png
 bedetheque.com.png
+bomtoon.com.png
 booklive.jp.png
 bookwalker.jp.png
 cdjapan.co.jp.png
@@ -51,6 +52,7 @@ kunmanga.com.png
 lezhin.com.png
 lezhinus.com.png
 magcomi.com.png
+manga.bilibili.com.png
 mangabox.me.png
 mangacross.jp.png
 mangadex.org.png
@@ -71,6 +73,7 @@ paramountplus.com.png
 pixiv.net.png
 plex.tv.png
 pocket.shonenmagazine.com.png
+pocketcomics.com.png
 reddit.com.png
 seiga.nicovideo.jp.png
 series.naver.com.png
