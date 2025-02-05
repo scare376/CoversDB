@@ -170,6 +170,7 @@ Blu Manga|comics/Blu Manga.png
 Blue King Studios|comics/Blue King Studios.png
 Bluewater Productions|comics/Bluewater Productions.png
 Bodog|comics/Bodog.png
+Bold Strokes Books|books/Bold Strokes Books.jpg
 Bomtoon|manga/bomtoon.png
 Bongo#Bongo Entertainment|comics/Bongo.png
 Bonnier Carlsen|comics/Bonnier Carlsen.png
@@ -332,7 +333,7 @@ Grind House Comics|comics/Grind House Comics.png
 Hachette|comics/Hachette.png
 Hakusensha|manga/Hakusensha.png
 Harper & Row|comics/Harper & Row.png
-Harpercollins|comics/Harpercollins.png
+Harpercollins#HarperCollinsPublishers#HarperCollins Publishers|comics/Harpercollins.png
 Harvey Pekar|comics/Harvey Pekar.png
 Harvey|comics/Harvey.png
 Heavy Metal Magazine|comics/Heavy Metal Magazine.png
@@ -431,6 +432,7 @@ Oblivion Books|comics/Oblivion Books.png
 One Peace Books|comics/One Peace Books.png
 Oni Press|comics/Oni Press.png
 Oog & Blik|comics/Oog & Blik.png
+Orbit|books/Orbit.png
 Pacific Comics|comics/Pacific Comics.png
 Panini Comics|comics/Panini Comics.png
 Panini España|comics/Panini España.png
@@ -438,7 +440,7 @@ Pantheon|comics/Pantheon.png
 Papercutz|comics/Papercutz.png
 PaperStreet Comics|comics/PaperStreet Comics.png
 Paradox Press|comics/Paradox Press.png
-Penguin Books|comics/Penguin Books.png
+Penguin Books#Penguin Random House LLC#Penguin Publishing Group|comics/Penguin Books.png
 Pika Édition|comics/Pika Édition.png
 Pipoca & Nanquim|comics/Pipoca & Nanquim.png
 Planeta Cómic|comics/Planeta Cómic.png
@@ -454,6 +456,7 @@ Quality Communications|comics/Quality Communications.png
 Quality|comics/Quality.png
 Radical Publishing|comics/Radical Publishing.png
 Random House|comics/Random House.png
+Random House Children's Books|books/Random House Children's Books.jpg
 RAW Books & Graphics|comics/RAW Books & Graphics.png
 Razerbladeapple|comics/Razerbladeapple.png
 Rebellion|comics/Rebellion.png
@@ -493,6 +496,7 @@ Spire Christian Comics|comics/Spire Christian Comics.png
 Splitter|comics/Splitter.png
 Square Enix Manga & Books#Square Enix#Square Enix USA|comics/Square Enix Manga & Books.png
 St. John Publishing|comics/St. John Publishing.png
+St. Martin's Publishing Group|books/St. Martin's Publishing Group.png
 Standard|comics/Standard.png
 Star Comics|comics/Star Comics.png
 Star Publications|comics/Star Publications.png
