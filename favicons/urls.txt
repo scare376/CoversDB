@@ -6,6 +6,7 @@
 765pro-daidokoro.idolmaster-official.jp.png
 9306257794.amebaownd.com.png
 ablaze.net.png
+ac.qq.com.png
 adam-comics.jp.png
 afdian.com.png
 afternoon.kodansha.co.jp.png
@@ -408,6 +409,7 @@ kinopo.jp.png
 kir-comics.com.png
 kisscomic.com.png
 kitayume.wikia.com.png
+kitsu.app.png
 kitsu.io.png
 kiyou-bimbou.com.png
 kizudarakeseijo.com.png
@@ -850,6 +852,7 @@ webtoons.com.png
 webtripper.jp.png
 wecomics.in.th.png
 weekly.ascii.jp.png
+weibo.com.png
 wh-comic.kodansha.co.jp.png
 whistle-official.com.png
 wikizilla.org.png
