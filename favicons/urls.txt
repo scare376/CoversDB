@@ -218,6 +218,7 @@ discord.com.png
 discord.gg.png
 disneyplus.com.png
 dl.ndl.go.jp.png
+dongmanmanhua.cn.png
 dokico.de.png
 dokuha.jp.png
 dokusho-ojikan.jp.png
@@ -558,6 +559,7 @@ my-golfdigest.jp.png
 myanimelist.net.png
 myeonji9707.postype.com.png
 nakasorahami.com.png
+namu.wiki.png
 naruto-official.com.png
 natalie.mu.png
 nautiljon.com.png
@@ -1206,6 +1208,7 @@ www.websunday.net.png
 www.webtoonfactory.com.png
 www.webtoons.com.png
 www.wecomics.in.th.png
+www.weibo.com.png
 www.yaguchitakao.com.png
 www.yamibo.com.png
 www.yibenmanhua.com.png
